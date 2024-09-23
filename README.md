@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yoavstr
-- 👀 I’m interested in Data Science and AI
+- 👀 I’m studying Data Science
 - 🌱 I’m currently learning and working on projects involving Python and SQL
 - ⚡ Fun fact: I'm colorblind 🚩🍏
 
